@@ -27,6 +27,7 @@ aside {
 
 .container-widyet {
     margin-bottom: 20px;
+    background: #fff;
 }
 
 .widyet {
@@ -36,5 +37,5 @@ aside {
 
 footer {
     background: rgb(34, 32, 32);
-    padding: 20px;
+    padding: 20px 0;
 }
