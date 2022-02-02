@@ -1,0 +1,40 @@
+body {
+    background: #f0f3f5;
+    color: #fff;
+}
+
+.header {
+    background: greenyellow;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.container-main {
+    margin-bottom: 20px;
+}
+
+main {
+    background: #fff;
+    padding: 20px 0;
+    color: black;
+}
+
+aside {
+    background: gray;
+    color: rgb(18, 18, 92);
+    padding: 50px 0;
+}
+
+.container-widyet {
+    margin-bottom: 20px;
+}
+
+.widyet {
+    background: rgb(22, 132, 235);
+    padding: 16px 14px;
+}
+
+footer {
+    background: rgb(34, 32, 32);
+    padding: 20px;
+}
